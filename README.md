@@ -2,11 +2,11 @@
 
 Ilustrador 2D freelance listo para cualquier proyecto.
 
-- ✏️ **Artista 2D:** Cover artist / Character Designer.
+-  **Artista 2D:** Cover artist / Character Designer.
   
 ---
 
-## 🛠️ Tecnologías y Motores
+## Tecnologías y Motores
 
 * **Motores:** Unity
 * **Lenguajes:** C#, Git/GitHub.
@@ -14,7 +14,7 @@ Ilustrador 2D freelance listo para cualquier proyecto.
 
 ---
 
-## 💭 Objetivos Actuales / Qué estoy aprendiendo
+## Objetivos Actuales / Qué estoy aprendiendo
 * Labrarme un nombre en el mundo del arte.
 * Crear ilustraciones para empresas.
 * Dominar la gestión de control de versiones con Git y GitHub para evitar perder código.
@@ -22,6 +22,6 @@ Ilustrador 2D freelance listo para cualquier proyecto.
 
 ---
 
-## 📬 Contacto Profesional
+## Contacto Profesional
 
 * **Mi web personal:** https://corpaszy.straw.page/
